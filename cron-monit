@@ -1,1 +1,2 @@
-0 * * * * monit.sh
+#!/bin/bash
+*/10 * * * * kaye /home/kayeholanda/Documentos/testes/net-monit/monit.sh
