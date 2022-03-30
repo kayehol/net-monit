@@ -1,2 +1,3 @@
 #!/bin/bash
-*/10 * * * * kaye /home/kayeholanda/Documentos/testes/net-monit/monit.sh
+SHELL=/bin/bash
+0 * * * * cd /home/kayeholanda/Documentos/testes/net-monit && ./monit.sh

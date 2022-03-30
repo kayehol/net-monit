@@ -1,5 +1,5 @@
 #!/bin/bash
-target_path=Documentos/testes/net-monit/result.txt
+target_path=result.txt
 
 echo "-----------" >> $target_path
 date >> $target_path
